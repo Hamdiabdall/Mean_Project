@@ -186,7 +186,7 @@ MIT License
 
 ## Author
 
-Your Name
+Hamdi Abdallah
 
 ---
 
