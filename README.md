@@ -2,7 +2,7 @@
 
 A full-stack MEAN (MongoDB, Express, Angular, Node.js) application for managing smartphone information with image upload capabilities.
 
-![mean](https://github.com/user-attachments/assets/023c514e-7473-454f-9584-88b24b83237a)
+![mean](/mean.PNG)
 
 ## Features
 
